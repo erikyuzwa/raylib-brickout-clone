@@ -172,8 +172,6 @@ void GameRender() {
     std::string temp2 = temp1 + sScore;
     char const* text = temp2.c_str();
     DrawText(text, 10, 10, 30, YELLOW);
-
-
 }
 
 void GameShutdown() {
@@ -185,7 +183,6 @@ void GameShutdown() {
     UnloadTexture(texBackground);
 
     CloseAudioDevice();
-
 }
 
 

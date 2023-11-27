@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="raylib-brickout.cpp">
+    <ClCompile Include="src\raylib-brickout.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
