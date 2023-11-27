@@ -166,6 +166,7 @@ void GameRender() {
     DrawRectangle(player.rect.x, player.rect.y, player.rect.width, player.rect.height, YELLOW);
 
     // render the score
+    // TODO: converting to a std::stringstream here might be ok too
     std::string sScore = std::to_string(player.score);
     std::string temp1 = "SCORE: ";
     std::string temp2 = temp1 + sScore;
@@ -190,7 +191,6 @@ void GameShutdown() {
 
 int main()
 {
-    std::cout << "Hello World!\n";
     srand(time(NULL));
 
     InitWindow(screenWidth, screenHeight, "Raylib :: Brickout");
