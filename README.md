@@ -2,6 +2,16 @@
 
 ![Brickout Screenshot](./screenshot.png "Brickout Screenshot")
 
+## 🔗Links & References:
+- Raylib website: https://www.raylib.com/
+- Raylib github: https://github.com/raysan5/raylib
+- Raylib API Cheatsheet: https://www.raylib.com/cheatsheet/cheatsheet.html
+- Pixel Ocean Background: https://www.reddit.com/r/PixelArt/comments/gly4k0/500x500_pixel_ocean_background_feel_free_to_use/
+- JSFXR: https://sfxr.me/
+
+## 👋🏻Connect with me:
+Twitter: https://twitter.com/eyuzwa
+
 ## Developer Notes
 
 - `git clone git@github.com:erikyuzwa/raylib-brickout-clone.git`
